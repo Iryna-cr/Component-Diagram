@@ -2,7 +2,7 @@
 ## Тема - Система онлайн-замовлення їжі
 
 ## Зміст:
-На діаграмі подано п’ять компонентів: Web Client, Backend API, Database, Payment Service, Notification Service.
+На діаграмі подано п’ять компонентів: *Web Client, Backend API, Database, Payment Service, Notification Service.*
 Показано залежності між ними: запити клієнта до API, взаємодія API з базою даних, виклики сервісу оплати та сервісу сповіщень.
 
 ## Показує:
